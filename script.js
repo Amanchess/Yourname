@@ -25,14 +25,14 @@ prevButton.addEventListener('click', () => {
 });
 
 nextButton.addEventListener('click', () => {
-    if (currentSectionIndex >= 6)
+    if (currentSectionIndex >= 5)
         window.location.href = "card.html"    
 
     if (currentSectionIndex < sections.length - 1) {
         scrollToSection(currentSectionIndex + 1);
     }
 
-    if (currentSectionIndex == 6) {
+    if (currentSectionIndex == 5) {
         nextButton.innerHTML = "Go"
     }
 
