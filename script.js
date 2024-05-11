@@ -25,7 +25,7 @@ prevButton.addEventListener('click', () => {
 });
 
 nextButton.addEventListener('click', () => {
-    if (currentSectionIndex >= 5)
+    if (currentSectionIndex >= 6)
         window.location.href = "card.html"    
 
     if (currentSectionIndex < sections.length - 1) {
