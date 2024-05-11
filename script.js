@@ -73,6 +73,6 @@ function popUp(index) {
 
 Swal.fire({
     html: `<p>Sorry yaar kuch din se tabiyat bahut kharab ho gya hai isliye online nhi aa rahe the🙇Par itna din free the aur kuch karne ko tha nhi isliye hum ek project par kam kar rahe the.yeh idea bahut time se Mera dimag mein tha and I have implemented it
-Hope u will like it.
+Hope u will like it.Aur ha har image par click karna toh ek secret message hai behind the photos 😊
     </p>`
 })
