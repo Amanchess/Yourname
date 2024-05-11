@@ -32,7 +32,7 @@ nextButton.addEventListener('click', () => {
         scrollToSection(currentSectionIndex + 1);
     }
 
-    if (currentSectionIndex == 5) {
+    if (currentSectionIndex == 6) {
         nextButton.innerHTML = "Go"
     }
 
