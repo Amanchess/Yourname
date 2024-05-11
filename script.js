@@ -72,8 +72,7 @@ function popUp(index) {
 
 
 Swal.fire({
-    html: `<p>UmmHmm...tumhe kya laga, aise hi saste mein nipta dunga, tu special hai na mere liye, toh itna karna toh banta hai meri partner and supporter ke liye</p>
-    <br><p>
-    NOTE: click the photos to read the messages hidden inside them
+    html: `<p>Sorry yaar kuch din se tabiyat bahut kharab ho gya hai isliye online nhi aa rahe the🙇Par itna din free the aur kuch karne ko tha nhi isliye hum ek project par kam kar rahe the.yeh idea bahut time se Mera dimag mein tha and I have implemented it
+Hope u will like it.
     </p>`
 })
